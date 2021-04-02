@@ -1,0 +1,30 @@
+.id-num{
+    width: 4rem !important;
+
+}
+.id-tnum{
+    width: 5.5rem !important;
+
+}
+.left{
+    justify-content: flex-start;
+    padding-left:2rem !important;
+}
+.right{
+    justify-content: flex-end;
+    padding-right:2rem;
+}
+.table{
+    border: .01rem solid;
+}
+.table .input{
+    border: .01rem solid;
+    border-color: #ECECEC !important;
+}
+.table:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253) !important;
+}
+.row{
+    padding-top:10rem !important;
+    height:25rem !important;
+}
